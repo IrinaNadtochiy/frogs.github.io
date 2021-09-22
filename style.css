@@ -1,11 +1,13 @@
 .p{
     display: flex;
+    margin: auto;
     height: 750px;
-    background: url(fon.png);
     width: 750px;
+    background: rgb(59, 187, 20);
 }
 .title{
     text-align: center;
+    margin: auto;
     font-size: 40px;
     color:rgb(0, 0, 0);
     width: 750px;
